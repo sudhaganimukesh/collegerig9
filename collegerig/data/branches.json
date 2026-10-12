@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "cse-aiml",
+    "name": "Computer Science & AI / ML",
+    "shortName": "CSE & AI-ML",
+    "description": "Heavy software development, Docker containers, virtualization, Python tensor libraries, and full-stack web builds.",
+    "typicalSoftware": [
+      "VS Code",
+      "Docker Desktop",
+      "Android Studio",
+      "PyTorch / TensorFlow",
+      "Postman",
+      "Git & GitHub CLI",
+      "JupyterLab"
+    ],
+    "minSpecs": {
+      "minRamGb": 16,
+      "requiresDedicatedGpu": false,
+      "minStorageGb": 512,
+      "minCpuCores": 6,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro", "macOS", "Linux / DOS"]
+    },
+    "scoreWeights": {
+      "performance": 35,
+      "battery": 20,
+      "portability": 10,
+      "display": 10,
+      "build": 10,
+      "value": 10,
+      "futureProofing": 5
+    }
+  },
+  {
+    "slug": "ece",
+    "name": "Electronics & Communication",
+    "shortName": "ECE & Embedded",
+    "description": "Circuit simulation, signal processing, microcontroller toolchains, and HDL synthesis.",
+    "typicalSoftware": [
+      "MATLAB & Simulink",
+      "Proteus Design Suite",
+      "Multisim",
+      "Keil uVision",
+      "Arduino IDE",
+      "Xilinx Vivado",
+      "LTspice"
+    ],
+    "minSpecs": {
+      "minRamGb": 8,
+      "requiresDedicatedGpu": false,
+      "minStorageGb": 512,
+      "minCpuCores": 4,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro"]
+    },
+    "scoreWeights": {
+      "performance": 25,
+      "battery": 25,
+      "portability": 15,
+      "display": 10,
+      "build": 10,
+      "value": 10,
+      "futureProofing": 5
+    }
+  },
+  {
+    "slug": "mech",
+    "name": "Mechanical Engineering",
+    "shortName": "Mechanical (CAD/CAE)",
+    "description": "3D parametric modeling, finite element analysis, computational fluid dynamics, and thermal simulations.",
+    "typicalSoftware": [
+      "SolidWorks",
+      "AutoCAD 3D",
+      "ANSYS Fluent / Workbench",
+      "Autodesk Fusion 360",
+      "CATIA",
+      "MATLAB"
+    ],
+    "minSpecs": {
+      "minRamGb": 16,
+      "requiresDedicatedGpu": true,
+      "minVramGb": 4,
+      "minStorageGb": 512,
+      "minCpuCores": 6,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro"]
+    },
+    "scoreWeights": {
+      "performance": 40,
+      "battery": 10,
+      "portability": 5,
+      "display": 15,
+      "build": 15,
+      "value": 10,
+      "futureProofing": 5
+    }
+  },
+  {
+    "slug": "civil",
+    "name": "Civil Engineering",
+    "shortName": "Civil & Structural",
+    "description": "Structural analysis, building information modeling (BIM), geospatial mapping, and project scheduling.",
+    "typicalSoftware": [
+      "AutoCAD Civil 3D",
+      "Autodesk Revit",
+      "STAAD.Pro",
+      "ETABS",
+      "ArcGIS / QGIS",
+      "SketchUp"
+    ],
+    "minSpecs": {
+      "minRamGb": 16,
+      "requiresDedicatedGpu": true,
+      "minVramGb": 4,
+      "minStorageGb": 512,
+      "minCpuCores": 6,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro"]
+    },
+    "scoreWeights": {
+      "performance": 35,
+      "battery": 15,
+      "portability": 10,
+      "display": 15,
+      "build": 10,
+      "value": 10,
+      "futureProofing": 5
+    }
+  },
+  {
+    "slug": "design",
+    "name": "Design, UI/UX & Multimedia",
+    "shortName": "Design & UI/UX",
+    "description": "Vector illustration, UI/UX prototyping, 3D rendering, video post-production, and color-critical workflows.",
+    "typicalSoftware": [
+      "Figma",
+      "Blender 3D",
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Premiere Pro",
+      "After Effects"
+    ],
+    "minSpecs": {
+      "minRamGb": 16,
+      "requiresDedicatedGpu": false,
+      "minStorageGb": 512,
+      "minCpuCores": 6,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro", "macOS"]
+    },
+    "scoreWeights": {
+      "performance": 25,
+      "battery": 15,
+      "portability": 10,
+      "display": 30,
+      "build": 10,
+      "value": 5,
+      "futureProofing": 5
+    }
+  },
+  {
+    "slug": "commerce",
+    "name": "Commerce, Management & Analytics",
+    "shortName": "Commerce & Management",
+    "description": "Financial modeling, spreadsheet analysis, ERP systems, business intelligence dashboards, and presentations.",
+    "typicalSoftware": [
+      "Microsoft Excel (VBA/PowerPivot)",
+      "Power BI",
+      "Tableau",
+      "Tally Prime",
+      "RStudio",
+      "SPSS"
+    ],
+    "minSpecs": {
+      "minRamGb": 8,
+      "requiresDedicatedGpu": false,
+      "minStorageGb": 512,
+      "minCpuCores": 4,
+      "preferredOs": ["Windows 11 Home", "Windows 11 Pro", "macOS"]
+    },
+    "scoreWeights": {
+      "performance": 15,
+      "battery": 35,
+      "portability": 25,
+      "display": 10,
+      "build": 5,
+      "value": 5,
+      "futureProofing": 5
+    }
+  }
+]

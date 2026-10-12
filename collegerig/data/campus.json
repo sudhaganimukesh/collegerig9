@@ -1,0 +1,84 @@
+{
+  "slug": "kprit",
+  "name": "Kommuri Pratap Reddy Institute of Technology (KPRIT)",
+  "shortName": "KPRIT Hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "description": "KPRIT is situated in Ghatkesar, Hyderabad. Affiliated with JNTUH and accredited by NAAC with A+ grade. Home to active departments in CSE, AI & Data Science, ECE, Mechanical, and Civil Engineering.",
+  "hostelLifeNotes": "Over 65% of students commute from Uppal, Secunderabad, Dilsukhnagar, and ECIL via college buses (45–75 mins commute). First-year classrooms have charging points primarily along the rear walls, making a minimum 6-hour real-world battery life essential for day-scholars. Department labs feature standard power strips for heavier gaming/workstation rigs during CAD & simulation lab sessions.",
+  "picks": [
+    {
+      "laptopSlug": "lenovo-ideapad-slim-3-ryzen7",
+      "branchSlug": "cse-aiml",
+      "reason": "8-core Ryzen 7 7730U compiles C/Java/Python code in seconds; 16GB RAM handles dual browser profiles + VS Code without stutter.",
+      "hostelFriendly": true
+    },
+    {
+      "laptopSlug": "acer-swift-go-14-oled",
+      "branchSlug": "cse-aiml",
+      "reason": "1.25kg weight is a lifesaver for college bus commuters from Secunderabad & Uppal; 2.8K OLED screen reduces eye strain in evening coding marathons.",
+      "hostelFriendly": true
+    },
+    {
+      "laptopSlug": "asus-vivobook-16x-rtx2050",
+      "branchSlug": "mech",
+      "reason": "RTX 2050 4GB GPU satisfies KPRIT Mechanical 3D CAD/AutoCAD lab requirements under ₹55,000.",
+      "hostelFriendly": false
+    },
+    {
+      "laptopSlug": "lenovo-loq-15-rtx4050",
+      "branchSlug": "mech",
+      "reason": "High-TGP RTX 4050 6GB handles SolidWorks assemblies and ANSYS finite element analyses without thermal throttling.",
+      "hostelFriendly": false
+    },
+    {
+      "laptopSlug": "asus-tuf-gaming-a15-90wh",
+      "branchSlug": "ece",
+      "reason": "Massive 90Wh battery outlasts entire days of MATLAB and Keil lab assignments without needing to hunt for wall sockets.",
+      "hostelFriendly": true
+    },
+    {
+      "laptopSlug": "apple-macbook-air-m2",
+      "branchSlug": "commerce",
+      "reason": "18-hour real world battery life easily lasts from morning college bus pick-up to evening library sessions.",
+      "hostelFriendly": true
+    }
+  ],
+  "nearbyServiceHubs": [
+    {
+      "area": "Uppal / Ramanthapur (Nearest to KPRIT)",
+      "brand": "Lenovo & Multi-Brand Service Hub",
+      "distanceKm": 14.5,
+      "address": "Inner Ring Road, Beside Uppal Metro Station, Hyderabad",
+      "contactPhone": "+91 40 2720 1888"
+    },
+    {
+      "area": "Secunderabad (CTC Parklane Hub)",
+      "brand": "ASUS Exclusive Service Center",
+      "distanceKm": 22.0,
+      "address": "Chenoy Trade Center (CTC), Parklane, Secunderabad",
+      "contactPhone": "+91 40 4015 6789"
+    },
+    {
+      "area": "Ameerpet / Begumpet",
+      "brand": "HP Authorized Service Center",
+      "distanceKm": 26.5,
+      "address": "Greenlands Road, Near Begumpet Flyover, Hyderabad",
+      "contactPhone": "+91 40 6678 4400"
+    },
+    {
+      "area": "Hitec City / Madhapur",
+      "brand": "Dell Exclusive Care Center",
+      "distanceKm": 34.0,
+      "address": "Cyber Towers Junction, Madhapur, Hyderabad",
+      "contactPhone": "+91 40 4855 2200"
+    },
+    {
+      "area": "Somajiguda / Punjagutta",
+      "brand": "Apple Authorized Service Provider (F1 Infosolutions)",
+      "distanceKm": 25.0,
+      "address": "Raj Bhavan Road, Somajiguda, Hyderabad",
+      "contactPhone": "+91 40 2330 9000"
+    }
+  ]
+}
